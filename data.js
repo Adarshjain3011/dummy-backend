@@ -11,7 +11,7 @@ const candidateData = [
         "rounds": [
           {
             "roundName": "Round 1 - Technical Interview",
-            "date": "2024-11-05",
+            "date": "2024-11-11",
             "status": "Completed",
             "feedback": "Passed technical interview, waiting for the final round."
           },
@@ -41,7 +41,7 @@ const candidateData = [
         "rounds": [
           {
             "roundName": "Technical Interview",
-            "date": "2024-11-05",
+            "date": "2024-11-11",
             "status": "Completed",
             "feedback": "Great technical skills"
           }
@@ -58,21 +58,21 @@ const candidateData = [
         "rounds": [
           {
             "roundName": "Screening Interview",
-            "date": "2024-11-05",
+            "date": "2024-11-11",
             "status": "Selected",
             "feedback": "Great technical skills"
 
           },
           {
             "roundName": "Technical Interview",
-            "date": "2024-11-05",
+            "date": "2024-11-11",
             "status": "Selected",
             "feedback": "Great technical skills"
           },
           {
 
             "roundName": "HR Interview",
-            "date": "2024-11-05",
+            "date": "2024-11-11",
             "status": "Pending",
             "feedback": "Great technical skills"
 
@@ -176,19 +176,19 @@ const candidateData = [
       {
         "applicantName": "John",
         "companyName": "Company JKL",
-        "appliedAt": "2024-08-01",
+        "appliedAt": "2024-10-01",
         "jobTitle": "Data Scientist",
         "applicationStatus": "Pending",
         "rounds": [
           {
             "roundName": "Round 1 - Aptitude Test",
-            "date": "2024-08-05",
+            "date": "2024-10-11",
             "status": "Completed",
             "feedback": "Passed with high scores."
           },
           {
             "roundName": "Round 2 - Technical Interview",
-            "date": "2024-08-10",
+            "date": "2024-10-10",
             "status": "Pending"
           }
         ],
@@ -205,19 +205,19 @@ const candidateData = [
 
         "applicantName": "John",
         "companyName": "Company MNO",
-        "appliedAt": "2024-07-20",
+        "appliedAt": "2024-10-20",
         "jobTitle": "UI/UX Designer",
         "applicationStatus": "Pending",
         "rounds": [
           {
             "roundName": "Round 1 - Portfolio Review",
-            "date": "2024-07-25",
+            "date": "2024-10-25",
             "status": "Completed",
             "feedback": "Excellent portfolio showcasing creativity."
           },
           {
             "roundName": "Round 2 - Design Challenge",
-            "date": "2024-07-30",
+            "date": "2024-10-30",
             "status": "Pending"
           }
         ],
@@ -235,13 +235,13 @@ const candidateData = [
 
         "applicantName": "John",
         "companyName": "Company PQR",
-        "appliedAt": "2024-06-15",
+        "appliedAt": "2024-11-15",
         "jobTitle": "DevOps Engineer",
         "applicationStatus": "Rejected",
         "rounds": [
           {
             "roundName": "Round 1 - Technical Interview",
-            "date": "2024-06-20",
+            "date": "2024-11-20",
             "status": "Completed",
             "feedback": "Good technical knowledge, but lacked hands-on experience."
           }
@@ -259,19 +259,19 @@ const candidateData = [
 
         "applicantName": "John",
         "companyName": "Company STU",
-        "appliedAt": "2024-05-10",
+        "appliedAt": "2024-11-10",
         "jobTitle": "Product Manager",
         "applicationStatus": "Offer Accepted",
         "rounds": [
           {
             "roundName": "Round 1 - Leadership Assessment",
-            "date": "2024-05-15",
+            "date": "2024-11-15",
             "status": "Completed",
             "feedback": "Strong leadership skills."
           },
           {
             "roundName": "Round 2 - Final Interview",
-            "date": "2024-05-20",
+            "date": "2024-11-20",
             "status": "Completed",
             "feedback": "Excellent overall fit for the role."
           }
@@ -289,19 +289,19 @@ const candidateData = [
 
         "applicantName": "John",
         "companyName": "Company VWX",
-        "appliedAt": "2024-04-01",
+        "appliedAt": "2024-11-01",
         "jobTitle": "Cloud Engineer",
         "applicationStatus": "In Progress",
         "rounds": [
           {
             "roundName": "Round 1 - Online Assessment",
-            "date": "2024-04-05",
+            "date": "2024-11-11",
             "status": "Completed",
             "feedback": "Good understanding of cloud platforms."
           },
           {
             "roundName": "Round 2 - Technical Interview",
-            "date": "2024-04-10",
+            "date": "2024-11-10",
             "status": "Pending"
           }
         ],
@@ -318,19 +318,19 @@ const candidateData = [
 
         "applicantName": "John",
         "companyName": "Company YZA",
-        "appliedAt": "2024-03-15",
+        "appliedAt": "2024-09-15",
         "jobTitle": "Machine Learning Engineer",
         "applicationStatus": "Pending",
         "rounds": [
           {
             "roundName": "Round 1 - Coding Challenge",
-            "date": "2024-03-20",
+            "date": "2024-09-20",
             "status": "Completed",
             "feedback": "Impressive ML knowledge."
           },
           {
             "roundName": "Round 2 - Technical Interview",
-            "date": "2024-03-25",
+            "date": "2024-09-25",
             "status": "Pending"
           }
         ],
