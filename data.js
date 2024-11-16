@@ -120,7 +120,7 @@ const candidateData = [
           "companyName": "Company DEF",
           "appliedAt": "2024-09-15",
           "jobTitle": "Backend Developer",
-          "applicationStatus": "Rejected",
+          "applicationStatus": "Selected",
           "rounds": [
             {
               "roundName": "Round 1 - Technical Interview",
@@ -130,7 +130,7 @@ const candidateData = [
             }
           ],
           "currentRound": null,
-          "currentStatus": "Rejected"
+          "currentStatus": "Selected"
         }
       
     ]
@@ -143,7 +143,7 @@ const candidateData = [
           "companyName": "Company GHI",
           "appliedAt": "2024-10-10",
           "jobTitle": "Full Stack Developer",
-          "applicationStatus": "Offer Extended",
+          "applicationStatus": "Selected",
           "rounds": [
             {
               "roundName": "Round 1 - Online Assessment",
@@ -165,7 +165,7 @@ const candidateData = [
             }
           ],
           "currentRound": null,
-          "currentStatus": "Offer Extended"
+          "currentStatus": "Selected"
         }
       
     ]
@@ -207,7 +207,7 @@ const candidateData = [
           "companyName": "Company MNO",
           "appliedAt": "2024-07-20",
           "jobTitle": "UI/UX Designer",
-          "applicationStatus": "In Progress",
+          "applicationStatus": "Pending",
           "rounds": [
             {
               "roundName": "Round 1 - Portfolio Review",
@@ -276,7 +276,7 @@ const candidateData = [
               "feedback": "Excellent overall fit for the role."
             }
           ],
-          "currentRound": null,
+          "currentRound": "",
           "currentStatus": "Offer Accepted"
         
       }
