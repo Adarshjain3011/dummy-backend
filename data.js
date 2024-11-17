@@ -92,7 +92,7 @@ const candidateData = [
         "companyName": "Company ABC",
         "appliedAt": "2024-10-20",
         "jobTitle": "Frontend Developer",
-        "applicationStatus": "In Progress",
+        "applicationStatus": "Pending",
         "rounds": [
           {
             "roundName": "Round 1 - Online Assessment",
@@ -261,7 +261,7 @@ const candidateData = [
         "companyName": "Company STU",
         "appliedAt": "2024-11-10",
         "jobTitle": "Product Manager",
-        "applicationStatus": "Offer Accepted",
+        "applicationStatus": "Pending",
         "rounds": [
           {
             "roundName": "Round 1 - Leadership Assessment",
@@ -277,7 +277,7 @@ const candidateData = [
           }
         ],
         "currentRound": "",
-        "currentStatus": "Offer Accepted"
+        "currentStatus": "Pending"
 
       }
     ]
@@ -291,7 +291,7 @@ const candidateData = [
         "companyName": "Company VWX",
         "appliedAt": "2024-11-01",
         "jobTitle": "Cloud Engineer",
-        "applicationStatus": "In Progress",
+        "applicationStatus": "Pending",
         "rounds": [
           {
             "roundName": "Round 1 - Online Assessment",
