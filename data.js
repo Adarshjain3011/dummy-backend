@@ -4,7 +4,7 @@ const candidateData = [
     "appliedCompanies": [
       {
         "applicantName": "John",
-        "companyName": "Company XYZ",
+        "companyName": "Retail",
         "appliedAt": "2024-11-01",
         "jobTitle": "Software Engineer",
         "applicationStatus": "Pending",
@@ -33,7 +33,7 @@ const candidateData = [
     "email": "lavanyamrinalini@gmail.com",
     "appliedCompanies": [
       {
-        "companyName": "Company XYZ",
+        "companyName": "NextGen Softwares",
         "applicantName": "John Doe",
         "jobTitle": "Software Engineer",
         "appliedAt": "2024-11-01",
@@ -50,7 +50,7 @@ const candidateData = [
         "currentStatus": "Pending"
       },
       {
-        "companyName": "ddd XYZ",
+        "companyName": "NextGen Softwares",
         "applicantName": "John Doe",
         "jobTitle": "Software Engineer",
         "appliedAt": "2024-11-01",
@@ -89,7 +89,7 @@ const candidateData = [
     "appliedCompanies": [
       {
         "applicantName": "John",
-        "companyName": "Company ABC",
+        "companyName": "InnoTech Ventures",
         "appliedAt": "2024-10-20",
         "jobTitle": "Frontend Developer",
         "applicationStatus": "Pending",
@@ -117,7 +117,7 @@ const candidateData = [
     "appliedCompanies": [
       {
         "applicantName": "John",
-        "companyName": "Company DEF",
+        "companyName": "InnoTech Ventures",
         "appliedAt": "2024-09-15",
         "jobTitle": "Backend Developer",
         "applicationStatus": "Selected",
@@ -140,7 +140,7 @@ const candidateData = [
     "appliedCompanies": [
       {
         "applicantName": "John",
-        "companyName": "Company GHI",
+        "companyName": "Accenture",
         "appliedAt": "2024-10-10",
         "jobTitle": "Full Stack Developer",
         "applicationStatus": "Selected",
@@ -175,7 +175,7 @@ const candidateData = [
     "appliedCompanies": [
       {
         "applicantName": "John",
-        "companyName": "Company JKL",
+        "companyName": "Delta X",
         "appliedAt": "2024-10-01",
         "jobTitle": "Data Scientist",
         "applicationStatus": "Pending",
@@ -204,7 +204,7 @@ const candidateData = [
       {
 
         "applicantName": "John",
-        "companyName": "Company MNO",
+        "companyName": "Wipro",
         "appliedAt": "2024-10-20",
         "jobTitle": "UI/UX Designer",
         "applicationStatus": "Pending",
@@ -234,7 +234,7 @@ const candidateData = [
 
 
         "applicantName": "John",
-        "companyName": "Company PQR",
+        "companyName": "TalentID",
         "appliedAt": "2024-11-15",
         "jobTitle": "DevOps Engineer",
         "applicationStatus": "Rejected",
@@ -258,7 +258,7 @@ const candidateData = [
       {
 
         "applicantName": "John",
-        "companyName": "Company STU",
+        "companyName": "Google",
         "appliedAt": "2024-11-10",
         "jobTitle": "Product Manager",
         "applicationStatus": "Pending",
@@ -288,7 +288,7 @@ const candidateData = [
       {
 
         "applicantName": "John",
-        "companyName": "Company VWX",
+        "companyName": "Pync",
         "appliedAt": "2024-11-01",
         "jobTitle": "Cloud Engineer",
         "applicationStatus": "Pending",
@@ -317,7 +317,7 @@ const candidateData = [
       {
 
         "applicantName": "John",
-        "companyName": "Company YZA",
+        "companyName": "BlackRock",
         "appliedAt": "2024-09-15",
         "jobTitle": "Machine Learning Engineer",
         "applicationStatus": "Pending",
