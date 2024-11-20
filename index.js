@@ -31,16 +31,19 @@ app.get("/getCandidateData/:userEmail", (req, res) => {
 
     const candidateDataFiltered = candidateData.filter(candidate => candidate.email === userEmail);
 
-    if (candidateDataFiltered.length > 0) {
-        res.status(200).json({
 
-            data:candidateDataFiltered[0],
-            message: "Candidate data fetched successfully"
-            
-        });
-    } else {
-        res.status(404).json({ message: "Candidate not found" });
-    }
+    res.status(200).json({
+
+        data:candidateDataFiltered[0],
+        message: "Candidate data fetched successfully"
+        
+    });
+
+    // if (candidateDataFiltered.length > 0) {
+
+    // } else {
+    //     res.status(404).json({ message: "Candidate not found" });
+    // }
 
 });
 
